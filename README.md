@@ -1,7 +1,7 @@
 # JSON Lines (JSONL) Examples
 
 ## Brief background on JSONL
-Information and examples of the format can be found (here)[https://jsonlines.org/].
+Information and examples of the format can be found [here](https://jsonlines.org/).
 
 TLDR; JSON Lines aka JSONL aka new-line delimited JSON, is a format to store structured format that is designed to be consumed line by line.
 
